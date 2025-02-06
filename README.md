@@ -15,6 +15,7 @@ Model Training:
 Evaluation:
 -> Evaluate the model performance using MSE, MAE, and R².
 -> Visualize the comparison between actual and predicted house prices using a scatter plot.
+
 **Technologies Used**
 
 1. Python
